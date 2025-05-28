@@ -25,5 +25,5 @@ python app/main.py "CAMINHO/DA/PASTA"
 Arquivos serão organizados por pastas de acordo com sua extensão.
 
 ## 🧑‍💻 Feito por [alvaret37](https://github.com/alvaret37)  
-📧 alvaret.dev@gmail.com  
+📧 alvaro.emmanoel@gmail.com
 (Projeto utilitário para automação de organização de arquivos.)
